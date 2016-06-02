@@ -29,6 +29,7 @@ Bullet物理引擎QQ讨论群:533030320
  * http://www.fracturemechanics.org/ (破碎介质 建设中)
 
 ##个人网站
+ 1. 动画模拟
  * http://people.eecs.berkeley.edu/~jfc/mirtich/ (Mirtich)
  * http://www.cs.cmu.edu/~baraff/ (Baraff)
  * http://physbam.stanford.edu/~fedkiw/ (Fedkiw)
@@ -39,6 +40,10 @@ Bullet物理引擎QQ讨论群:533030320
  * http://www.cs.ubc.ca/~mike323/ (朱宇峰)
  * http://www.seas.upenn.edu/~liutiant/ (Tiantian Liu)
  * http://royfeatherstone.org/aboutme.html (Featherstone)
+ *
+
+ 2.数学基础
+ * http://www.math.ucla.edu/~tom/ (Tom)
  
  - - -
  last revised 2016/6/2
