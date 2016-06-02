@@ -43,7 +43,7 @@ Bullet物理引擎QQ讨论群:533030320
   *
 
  2.数学基础
-  * http://www.math.ucla.edu/~tom/ (Tom)
+  * http://www.math.ucla.edu/~tom/ (Ferguson)
  
  - - -
  last revised 2016/6/2
