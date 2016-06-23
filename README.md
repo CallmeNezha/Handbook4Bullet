@@ -22,7 +22,7 @@ Bullet物理引擎QQ讨论群:533030320
  
 ##优秀参考网站
  * http://kesen.realtimerendering.com/ (论文索引大全)
- * http://www.myphysicslab.com/（基础）
+ * http://www.myphysicslab.com/ (基础)
  * http://www.physicsbasedanimation.com/ (综合)
  * http://www.interactive-graphics.de/ (综合)
  * http://www.continuummechanics.org/ (连续介质)
