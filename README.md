@@ -28,25 +28,6 @@ Bullet物理引擎QQ讨论群:533030320
  * http://www.continuummechanics.org/ (连续介质)
  * http://www.fracturemechanics.org/ (破碎介质 建设中)
 
-##个人网站
- 1. 动画模拟
-  * http://people.eecs.berkeley.edu/~jfc/mirtich/ (Mirtich)
-  * http://www.cs.cmu.edu/~baraff/ (Baraff)
-  * http://physbam.stanford.edu/~fedkiw/ (Fedkiw)
-  * http://matthias-mueller-fischer.ch/ (Muller)
-  * http://web.cs.ucla.edu/~cffjiang/ (蒋陈凡夫)
-  * http://cg.informatik.uni-freiburg.de/people/nakinci.htm (Akinci)
-  * http://www.graduate-school-ce.de/index.php?id=304 (Bender)
-  * http://www.cs.ubc.ca/~mike323/ (朱宇峰)
-  * http://www.seas.upenn.edu/~liutiant/ (Tiantian Liu)
-  * http://royfeatherstone.org/aboutme.html (Featherstone)
-  *
-
- 2.数学基础
-  * http://www.math.ucla.edu/~tom/ (Ferguson)
-  * 
-  * 
-  
 ##优秀资料网盘分享
  1. 数学基础
   * http://pan.baidu.com/s/1mi4dy3Y (Numerical methods tutorial by Jacob Bishop From Youtube)
