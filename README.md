@@ -46,4 +46,4 @@ Bullet物理引擎QQ讨论群:533030320
   * http://www.math.ucla.edu/~tom/ (Ferguson)
   * http://pan.baidu.com/s/1mi4dy3Y (Numerical methods tutorial by Jacob Bishop From Youtube)
  - - -
- last revised 2016/6/2
+ last revised 2016/6/24
